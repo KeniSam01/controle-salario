@@ -1,0 +1,10 @@
+{
+  "name": "Controle de Salário",
+  "short_name": "Controle",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f8fa",
+  "theme_color": "#0A84FF",
+  "lang": "pt-BR",
+  "description": "Controle seu salário, gastos, categorias e saldo disponível."
+}
